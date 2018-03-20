@@ -27,10 +27,15 @@
 ## Technology used
 
 •	Machine Learning(NLP+ Supervised Learning)
+
 •	Django
+
 •	Python
+
 •	HTML
+
 •	CSS
+
 •	JS
 
 ## Future Scope

@@ -1,0 +1,25 @@
+dic={'fever':2,'abdomen pain':1,'headache':1}
+
+import pandas as pd
+df=pd.read_csv('dataset_severe.csv',index_col=0)
+
+df=df.drop('Source',axis=1)
+
+col=df.columns
+
+sym={}
+for i in col:
+    sym[i]=0
+for k,v in dic.items():
+    sym[k]=v
+
+
+df=pd.DataFrame([sym],columns=sym.keys())
+
+
+from sklearn.externals import joblib
+import pickle
+classifier_model = joblib.load('bagging_model.pkl')
+predicted_labels =classifier_model.predict(df)
+
+prediction=predicted_labels

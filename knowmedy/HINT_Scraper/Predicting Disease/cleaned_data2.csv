@@ -1,0 +1,1123 @@
+,Source,Target
+0,abscess,Pus formation
+1,allergy,Runny nose
+2,allergy,Sneezing
+3,allergy,Itching
+4,allergy,Rashes
+5,allergy,Swelling
+6,alzheimers disease,Loss of memory
+7,alzheimers disease,Have trouble finding the right words to identify objects
+8,alzheimers disease,Express thoughts or take part in conversations
+9,anorexia nervosa,Extreme weight loss
+10,anorexia nervosa,Thin appearance
+11,anorexia nervosa,Abnormal blood counts
+12,anorexia nervosa,Fatigue
+13,anorexia nervosa,Insomnia
+14,anorexia nervosa,Dizziness
+15,anorexia nervosa,Fainting
+16,anorexia nervosa,Bluish discoloration of the fingers
+17,anorexia nervosa,Loss of hair
+18,anorexia nervosa,Absence of menstruation
+19,anorexia nervosa,Constipation
+20,anorexia nervosa,Dry or yellowish skin
+21,anorexia nervosa,Intolerance of cold
+22,anorexia nervosa,Irregular heart rhythms
+23,anorexia nervosa,Low blood pressure
+24,anorexia nervosa,Dehydration
+25,anorexia nervosa,Osteoporosis
+26,anorexia nervosa,Swelling of limbs
+27,antisocial personality disorder,Disregard for right and wrong
+28,antisocial personality disorder,Persistent lying or deceit to exploit others
+29,antisocial personality disorder,Being callous
+30,antisocial personality disorder,Using charm or wit to manipulate others for personal gain or personal pleasure
+31,antisocial personality disorder,Arrogance
+32,antisocial personality disorder,Recurring problems with the law
+33,antisocial personality disorder,Repeatedly violating the rights of others through intimidation and dishonesty
+34,antisocial personality disorder,Agitation
+35,antisocial personality disorder,Aggression
+36,appendicitis,Abdomen pain on right side
+37,appendicitis,Swelling in abdomen
+38,appendicitis,Loss of appetite
+39,appendicitis,Nausea
+40,appendicitis,Vomiting
+41,appendicitis,Constipation
+42,appendicitis,Low fever 
+43,arthritis,Pain in joints
+44,arthritis,Swelling in joints
+45,asthma,Wheezing
+46,asthma,Coughing
+47,asthma,Chest tightness
+48,asthma,Shortness of breath
+49,astigmatism,Blurred vision
+50,astigmatism,Eyestrain
+51,astigmatism,Headache
+52,astigmatism,Difficulty with night vision
+53,astigmatism,Squinting
+54,atherosclerosis,Heavy Chest pain
+55,atherosclerosis,Heart attack
+56,atherosclerosis,Shortness of breath
+57,atherosclerosis,Dizziness
+58,atherosclerosis,Weakness on one side of body
+59,atherosclerosis,Slurred speech
+60,atherosclerosis,Leg pain when walking
+61,backpain,Pain in back
+62,bladdercancer,Blood in your urine
+63,bladdercancer,Frequent urge to urinate
+64,bladdercancer,Pain when you urinate
+65,bladdercancer,Low back pain
+66,botulism,Difficulty swallowing or speaking
+67,botulism,Dry mouth
+68,botulism,Facial weakness on both sides of the face
+69,botulism,Blurred vision
+70,botulism,Drooping eyelids
+71,botulism,Trouble breathing
+72,botulism,Nausea
+73,botulism,Vomiting
+74,botulism,Abdominal cramps
+75,botulism,Paralysis
+76,brain tumor,New onset or change in pattern of headaches
+77,brain tumor,Nausea
+78,brain tumor,Vomiting
+79,brain tumor,Blurred vision
+80,brain tumor,Double vision
+81,brain tumor,Gradual loss of sensation or movement in an arm or a leg
+82,brain tumor,Difficulty with balance
+83,brain tumor,Speech difficulties
+84,brain tumor,Confusion in everyday matters
+85,brain tumor,Personality or behavior changes
+86,brain tumor,Seizures
+87,brain tumor,especially in someone who doesnt have a history of seizures
+88,brain tumor,Hearing problems
+89,breastcancer,lump in breast
+90,breastcancer,Change in size or shape of the breast
+91,breastcancer,Discharge from a nipple
+92,bronchitis,Cough
+93,bronchitis,Fatigue
+94,bronchitis,Shortness of breath
+95,bronchitis,Fever
+96,bronchitis,Chills
+97,bronchitis,Chest tightness
+98,brucellosis,Fever
+99,brucellosis,Chills
+100,brucellosis,Loss of appetite
+101,brucellosis,Sweating
+102,brucellosis,Weakness
+103,brucellosis,Fatigue
+104,brucellosis,Joint pain
+105,brucellosis,Muscle pain
+106,brucellosis,Headache
+107,burns,Swelling
+108,burns,Blistering
+109,burns,Scarring
+110,bursitis,Body pain
+111,bursitis,Body stiffness
+112,bursitis,Hurt more when you move it or press on it
+113,bursitis,Look swollen and red
+114,cancer,Fatigue
+115,cancer,Lump or area of thickening that can be felt under the skin
+116,cancer,Weight changes
+117,cancer,including unintended loss or gain
+118,cancer,uSkin changes
+119,cancer,such as yellowing
+120,cancer,darkening or redness of the skin
+121,cancer,sores that wont heal
+122,cancer,or changes to existing moles
+123,cancer,Changes in bowel or bladder habits
+124,cancer,Persistent cough or trouble breathing
+125,cancer,Difficulty swallowing
+126,cancer,Hoarseness
+127,cancer,Persistent indigestion or discomfort after eating
+128,cancer,Persistent
+129,cancer,unexplained muscle or joint pain
+130,cancer,Persistent
+131,cancer,unexplained fevers or night sweats
+132,cancer,Unexplained bleeding or bruising
+133,carbonmonoxidepoisoning,Headache
+134,carbonmonoxidepoisoning,Dizziness
+135,carbonmonoxidepoisoning,Weakness
+136,carbonmonoxidepoisoning,Nausea
+137,carbonmonoxidepoisoning,Vomiting
+138,carbonmonoxidepoisoning,Chest pain
+139,carbonmonoxidepoisoning,Confusion
+140,celiac disease,Iron deficiency
+141,celiac disease,Loss of bone density
+142,celiac disease,Softening of bone
+143,celiac disease,Itching
+144,celiac disease,Blisters
+145,celiac disease,Skin Rash
+146,celiac disease,Damage to dental enamel
+147,celiac disease,Mouth ulcers
+148,celiac disease,Headache
+149,celiac disease,Fatigue
+150,celiac disease,Nervous system injury
+151,cerebralpalsy,Difficulty in walking
+152,cerebralpalsy,Difficulty in writing
+153,cerebralpalsy,AGE
+154,cerebralpalsy,Name
+155,cerebralpalsy,SYMP
+156,cervicalcancer,Pelvic pain
+157,cervicalcancer,Bleeding from the vagina
+158,chagas disease,Swelling at the infection site
+159,chagas disease,Fever
+160,chagas disease,Fatigue
+161,chagas disease,Rash
+162,chagas disease,Body pain
+163,chagas disease,Swollen eyelid
+164,chagas disease,Headache
+165,chagas disease,Loss of appetite
+166,chagas disease,Nausea
+167,chagas disease,Diarrhea Vomiting
+168,chagas disease,Swollen glands
+169,chickenpox,Itchy rash
+170,chickenpox,Fluid-filled blisters all over the body
+171,chickenpox,Scabs all over the body
+172,chickenpox,Fever
+173,chickenpox,Headache
+174,chickenpox,Tiredness
+175,chickenpox,Loss of appetite
+176,chlamydia,Painful urination
+177,chlamydia,Lower abdominal pain
+178,chlamydia,Vaginal discharge in women
+179,chlamydia,Discharge from the penis in men
+180,chlamydia,Painful sexual intercourse in women
+181,chlamydia,Bleeding between periods and after sex in women
+182,chlamydia,Testicular pain in men
+183,cholera,Watery diarrhea
+184,cholera,Vomiting
+185,cholera,Leg cramps
+186,cholera,Dehydration
+187,cholera,Shock
+188,chronicfatiguesyndrome,Severe fatigue
+189,chronicfatiguesyndrome,Disturbed Sleep
+190,chronicfatiguesyndrome,Muscle pain
+191,chronicfatiguesyndrome,Memory problems
+192,chronicfatiguesyndrome,Headaches
+193,chronicfatiguesyndrome,Pain in multiple joints
+194,chronicfatiguesyndrome,Sleep problems
+195,chronicfatiguesyndrome,Sore throat
+196,chronicfatiguesyndrome,Tender lymph nodes
+197,colorectalcancer,Diarrhea
+198,colorectalcancer,Constipation
+199,colorectalcancer,A feeling that your bowel does not empty completely
+200,colorectalcancer,Blood in your stool
+201,colorectalcancer,Stools that are narrower than usual
+202,colorectalcancer,Frequent gas pains or cramps
+203,colorectalcancer,Weight loss
+204,colorectalcancer,Fatigue
+205,colorectalcancer,Nausea
+206,colorectalcancer,Vomiting
+207,commoncold,Sneezing
+208,commoncold,Sore throat
+209,commoncold,A stuffy nose
+210,commoncold,Coughing 
+211,cradle cap,Thick crusts on the scalp
+212,cradle cap,Dry skin
+213,cradle cap,Skin flakes
+214,cradle cap,Redness of skin
+215,deepveinthrombosis,Warmth and tenderness over the vein
+216,deepveinthrombosis,Pain or swelling in the part of the body affected
+217,deepveinthrombosis, Skin redness
+218,dehydration,Being thirsty
+219,dehydration,Urinating less often than usual
+220,dehydration,Dark-colored urine
+221,dehydration,Dry skin
+222,dehydration,Feeling tired
+223,dehydration,Dizziness
+224,dehydration,Fainting
+225,dengue,High fever
+226,dengue,Headache
+227,dengue,Joint pain
+228,dengue,Muscle pain
+229,dengue,Vomiting
+230,dengue,Rash
+231,dengue,Massive bleeding
+232,dengue,Shock
+233,depression,Loss of interest in favorite activities
+234,depression,Overeating
+235,depression,Not wanting to eat at all
+236,depression,Not being able to sleep
+237,depression,Sleeping too much
+238,depression,Feeling very tired
+239,depression,Feeling hopeless
+240,depression,Irritable
+241,depression,Anxious
+242,depression,Guilty
+243,depression,Pain
+244,depression,Headache
+245,depression,Cramps
+246,depression,Insomnia
+247,depression,Restlessness
+248,dermatitis,Redness
+249,dermatitis,Itching
+250,dermatitis,Small bumps
+251,diabetes,Increased thirst
+252,diabetes,Frequent urination
+253,diabetes,Extreme hunger
+254,diabetes,Weight loss
+255,diabetes,Presence of ketones in the urine 
+256,diabetes,Fatigue
+257,diabetes,Irritability
+258,diabetes,Blurred vision
+259,diabetes,Slow-healing sores
+260,diabetes,Gum infections
+261,diabetes,Skin infections
+262,diabetes,Vaginal infections
+263,diarrhea,Cramps or pain in the abdome
+264,diarrhea,An urgent need to use the bathroom
+265,diarrhea,Loss of bowel control
+266,diarrhea,Fever
+267,diarrhea,Abdominal Pain
+268,diarrhea,Blood in Stool
+269,diarrhea,Bloating 
+270,diarrhea,Nausea
+271,diarrhea,Abdominal Cramps
+272,diphtheria,Sore throat
+273,diphtheria,Swollen glands in the neck
+274,diphtheria,Fever
+275,diphtheria,Weakness
+276,diphtheria,Nasal Discharge
+277,diphtheria,Malaise
+278,diverticulitis,Pain
+279,diverticulitis,which may be constant and persist for several days. Pain is usually felt in the lower left side of the abdomen
+280,diverticulitis,but may occur on the right
+281,diverticulitis,especially in people of Asian descent.
+282,diverticulitis,Nausea and vomiting.
+283,diverticulitis,Fever.
+284,diverticulitis,Abdominal tenderness.
+285,diverticulitis,Constipation or
+286,diverticulitis,less commonly
+287,diverticulitis,diarrhea.
+288,down syndrome,Flattened facial features
+289,down syndrome,Small head
+290,down syndrome,Short neck
+291,down syndrome,Protruding tongue
+292,down syndrome,uUpward slanting eyes
+293,down syndrome,unusual for the childs ethnic group
+294,down syndrome,Unusually shaped or small ears
+295,down syndrome,Poor muscle tone
+296,down syndrome,Broad
+297,down syndrome,short hands with a single crease in the palm
+298,down syndrome,Relatively short fingers and small hands and feet
+299,down syndrome,Excessive flexibility
+300,down syndrome,Tiny white spots on the colored part (iris) of the eye called Brushfield spots
+301,down syndrome,Short height
+302,dyslexia,Late talking
+303,dyslexia,Learning new words slowly
+304,dyslexia,Difficulty learning nursery rhymes
+305,dyslexia,Difficulty playing rhyming games
+306,ebola,Fever
+307,ebola,Headache
+308,ebola,Joint pain
+309,ebola,Muscle pain
+310,ebola,Weakness
+311,ebola,Diarrhea
+312,ebola,Vomiting
+313,ebola,Stomach pain
+314,ebola,Lack of appetite
+315,ebola,Rash
+316,ebola,Red eyes
+317,ebola,Bleeding
+318,emphysema,Shortnes of breath
+319,emphysema,Unable to climb stairs
+320,emphysema,Bluish of lips
+321,emphysema,Bluish of  fingernails
+322,emphysema,Mentally unalert
+323,encephalitis,Severe headache
+324,encephalitis,Sudden fever
+325,encephalitis,Drowsiness
+326,encephalitis,Vomiting
+327,encephalitis,Confusion
+328,encephalitis,Seizures
+329,endometriosis,Abdome pain
+330,endometriosis,Lower back pain
+331,endometriosis,Pain in pelvic areas
+332,endometriosis,Infertility
+333,endometriosis,Heavy periods and bleeding between periods
+334,endometriosis,Painful menstrual cramps
+335,endometriosis,Pelvic Pain
+336,endometriosis,Pelvic Cramping
+337,endometriosis,Fatique
+338,endometriosis,Constipation
+339,endometriosis,Nausea
+340,epilepsy,Temporary confusion
+341,epilepsy,A staring spell
+342,epilepsy,Uncontrollable jerking movements of the limbs
+343,epilepsy,Loss of consciousness
+344,epilepsy,Psychic symptoms
+345,fibromyalgia,Trouble sleeping
+346,fibromyalgia,Morning stiffness
+347,fibromyalgia,Headache
+348,fibromyalgia,Painful menstrual periods
+349,fibromyalgia,Tingling
+350,fibromyalgia,Numbness in hands and feet
+351,fibromyalgia,Problems with thinking and memory
+352,flu,Body pain
+353,flu,Muscle pain
+354,flu,Chills
+355,flu,Cough
+356,flu,Fever
+357,flu,Headache
+358,flu,Sore throat
+359,gangrene,Blue or black color skin
+360,gangrene,Pain
+361,gangrene,Numbness
+362,gangrene,Sores that produce a foul-smelling discharge
+363,gastroenteritis,Diarrhea
+364,gastroenteritis,Abdomen pain
+365,gastroenteritis,Vomiting
+366,gastroenteritis,Headache
+367,gastroenteritis,Fever
+368,gastroenteritis,Chills
+369,gerd,Dry cough
+370,gerd,Asthma symptoms
+371,gerd,Trouble swallowing
+372,gerd,Heart Burn
+373,gerd,Chest Pain
+374,gerd,Sensation of Lump in throat
+375,glomerulonephritis,Rash
+376,glomerulonephritis,Joint pain
+377,glomerulonephritis,Breathing problems
+378,glomerulonephritis,Tiredness
+379,goitre,Cough
+380,goitre,Tight feeling in your throat
+381,goitre,Hoarsenes
+382,goitre,Difficulty in swallowing
+383,goitre,Difficulty in breathing
+384,gout,Joint feeling hot and very tender
+385,gout,Swelling in and around the affected joint
+386,gout,Red skin over the affected joint
+387,gout,Itching
+388,heart disease,Chest pain
+389,heart disease,Shortness of breath
+390,heart disease,Pain
+391,heart disease,Numbness
+392,heart disease,Weakness
+393,heart disease,Neck and throat pain
+394,heartburn,A burning pain in chest
+395,hemorrhoids,Red blood covering the stool
+396,hemorrhoids,Swollen veins in lower rectum
+397,hepatitis A,Fatigue
+398,hepatitis A,Nausea
+399,hepatitis A,Vomiting
+400,hepatitis A,Abdomen pain
+401,hepatitis A,Clay-colored bowel movements
+402,hepatitis A,Loss of appetite
+403,hepatitis A,Low  fever
+404,hepatitis A,Dark urine
+405,hepatitis A,Joint pain
+406,hepatitis A,Yellowing of the skin and eyes
+407,hepatitis B,Abdomen pain
+408,hepatitis B,Dark urine
+409,hepatitis B,Fever
+410,hepatitis B,Joint pain
+411,hepatitis B,Loss of appetite
+412,hepatitis B,Nausea
+413,hepatitis B,Vomiting
+414,hepatitis B,Weakness
+415,hepatitis B,Fatigue
+416,hepatitis B,Yellowing of your skin and eyes
+417,hepatitis C,Bleeding easily
+418,hepatitis C,Bruising easily
+419,hepatitis C,Fatigue
+420,hepatitis C,Poor appetite
+421,hepatitis C,Yellow discoloration of the skin and eyes
+422,hepatitis C,Dark-colored urine
+423,hepatitis C,Itchy skin
+424,hepatitis C,Fluid buildup in your abdomen
+425,hepatitis C,Swelling in your legs
+426,hepatitis C,Weight loss
+427,hepatitis C,Confusion
+428,hepatitis C,Drowsiness
+429,hiatalhernia,Heartburn
+430,hiatalhernia,Difficulty in swallowing
+431,hiatalhernia,A dry cough
+432,hiatalhernia,Bad breath
+433,hiatalhernia,Hiatal hernias
+434,hiatalhernia,Chest pain
+435,hiatalhernia,Abdomain Pain
+436,hiatalhernia,Vomiting blood
+437,huntingtons disease,Rigid muscle
+438,huntingtons disease,Slow or abnormal eye movements
+439,huntingtons disease,Impaired posture
+440,hyperthyroidism,Being nervous
+441,hyperthyroidism,Irritable
+442,hyperthyroidism,Mood swings
+443,hyperthyroidism,Fatigue
+444,hyperthyroidism,Heat intolerance
+445,hyperthyroidism,Trouble sleeping
+446,hyperthyroidism,Hand tremors
+447,hyperthyroidism,Rapid heart rate
+448,hyperthyroidism,Diarrhea
+449,hyperthyroidism,Weight loss
+450,hyperthyroidism,Goiter
+451,hypothyroidism,Fatigue
+452,hypothyroidism,Weight gain
+453,hypothyroidism,A puffy face
+454,hypothyroidism,Cold intolerance
+455,hypothyroidism,Joint pain
+456,hypothyroidism,Muscle pain
+457,hypothyroidism,Constipation
+458,hypothyroidism,Dry skin
+459,hypothyroidism,Thinning hair
+460,hypothyroidism,Decreased sweating
+461,hypothyroidism,Heavy or irregular menstrual periods and fertility problems
+462,hypothyroidism,Depression
+463,hypothyroidism,Slowed heart rate
+464,impetigo,Red sores
+465,impetigo,Sores fill with pus
+466,impetigo,Itching in sores
+467,infectiousmononucleosis,Fever
+468,infectiousmononucleosis,Sore throat
+469,infectiousmononucleosis,Swollen lymph glands
+470,infertility,Irregular menstruate 
+471,infertility,Painful periods
+472,infertility,Fertility problems
+473,infertility,Pelvic inflammation
+474,infertility,Multiple Miscarriages
+475,influenza,Body pain
+476,influenza,Muscle pain
+477,influenza,Chills
+478,influenza,Cough
+479,influenza,Fever
+480,influenza,Headache
+481,influenza,Sore throat
+482,interstitial cystitis,Pelvic pain 
+483,interstitial cystitis,Pain between the vagina and anus in women
+484,interstitial cystitis,Pain between the scrotum and anus in men
+485,interstitial cystitis,A persistent
+486,interstitial cystitis,Frequent urination
+487,interstitial cystitis,Pain during bladder fill
+488,interstitial cystitis, Discomfort during bladder fill 
+489,interstitial cystitis,Pain during sexual intercourse.
+490,iritis,Eye redness
+491,iritis,Discomfort or achiness in the affected eye
+492,iritis,Sensitivity to light
+493,iritis,Decreased vision
+494,irritable bowel syndrome,Abdominal pain 
+495,irritable bowel syndrome,Cramping
+496,irritable bowel syndrome,Bloating
+497,irritable bowel syndrome,Gas
+498,irritable bowel syndrome,Diarrhea
+499,irritable bowel syndrome,Constipation diarrhea
+500,irritable bowel syndrome,Mucus in the stool
+501,jaundice,Yellowing of the skin and eyes
+502,jaundice,Pale-coloured stools
+503,jaundice,Dark-coloured urine
+504,laryngitis,Hoarseness
+505,laryngitis,Weak voice
+506,laryngitis,Voice loss
+507,laryngitis,Tickling sensation
+508,laryngitis,Sore throat
+509,laryngitis,Dry throat
+510,laryngitis,Dry cough
+511,leadpoisoning,Anemia
+512,leadpoisoning,Severe abdomen pain
+513,leadpoisoning,Muscle weakness
+514,leadpoisoning,Brain damage
+515,leadpoisoning,Weight loss
+516,leadpoisoning,Loss of appetite
+517,leadpoisoning,Sluggishness
+518,leadpoisoning,Hearing loss
+519,leadpoisoning,Constipation
+520,leishmaniasis,Fever
+521,leishmaniasis,Weight loss
+522,leishmaniasis, and an enlarged spleen and liver
+523,leptospirosis,Fever
+524,leptospirosis,Chills
+525,leptospirosis,Sudden headache
+526,leptospirosis,Nausea
+527,leptospirosis,Vomiting
+528,leptospirosis,Loss of appetite
+529,leptospirosis,Muscle pain
+530,leptospirosis,Conjunctivitis
+531,leptospirosis,Cough
+532,leptospirosis,Rash
+533,listeriosis,Fever
+534,listeriosis,Muscle pain
+535,listeriosis,Chills
+536,listeriosis,Feeling sick
+537,listeriosis,Diarrhoea
+538,lungcancer,Cough
+539,lungcancer,Constant chest pain
+540,lungcancer,Coughing up blood
+541,lungcancer,Shortness of breath
+542,lungcancer,Wheezing
+543,lungcancer,Hoarseness
+544,lungcancer,Swelling of the neck and face
+545,lungcancer,Loss of appetite
+546,lungcancer,Weight loss
+547,lungcancer,Fatigue
+548,lungcancer,Bone pain
+549,lungcancer,Headache
+550,lymedisease,Fever
+551,lymedisease,Headache
+552,lymedisease,Body pain
+553,lymedisease,Stiff neck
+554,lymedisease,Fatigue
+555,lymphoma,Swollen lymph nodes in the neck
+556,lymphoma,Painless lymph nodes
+557,lymphoma,Weight loss
+558,lymphoma,Fever
+559,lymphoma,Soaking night sweats
+560,lymphoma,Cough
+561,lymphoma,Breathing problem
+562,lymphoma,Chest pain
+563,lymphoma,Weakness
+564,lymphoma,Tiredness
+565,malaria,Chills
+566,malaria,Flu
+567,malaria,Fever
+568,malaria,Vomiting
+569,malaria,Diarrhea
+570,measles,Fever
+571,measles,Cough
+572,measles,Runny nose
+573,measles,Conjunctivitis
+574,measles,Body pain
+575,measles,Tiny white spots inside the mouth
+576,measles,Skin rash
+577,measles,Sore throat
+578,meningitis,High fever
+579,meningitis,Severe headache
+580,meningitis,A stiff neck
+581,meningitis,Nausea
+582,meningitis,Vomiting
+583,meningitis,Confusion
+584,meningitis,Sleepiness
+585,meningitis,Loss of appetite
+586,meningitis,Skin rash
+587,mesothelioma,Breathing problem
+588,mesothelioma,Pain under the rib cage
+589,mesothelioma,Swelling
+590,mesothelioma,Lumps in abdomen
+591,mesothelioma,Weight loss
+592,mesothelioma,Shortness of breath
+593,mesothelioma,Painful coughing
+594,mesothelioma,Chest pain
+595,migraine,Constipation
+596,migraine,Mood changes
+597,migraine,Food cravings
+598,migraine,Neck stiffness
+599,migraine,Increased thirst
+600,migraine,Increased urination
+601,migraine,Frequent yawning
+602,miscarriage,Vaginal bleeding
+603,miscarriage,Abdomain Pain
+604,miscarriage, Abdominal cramp
+605,miscarriage,Fluid or tissue passing from your vagina
+606,mononucleosis,Fatigue
+607,mononucleosis,Sore throat
+608,mononucleosis,Fever
+609,mononucleosis,Swollen lymph nodes in neck
+610,mononucleosis,Swollen lymph nodes in armpits
+611,mononucleosis,Swollen tonsils
+612,mononucleosis,Headache
+613,mononucleosis,Skin rash
+614,mononucleosis,Soft
+615,mononucleosis,Swollen spleen
+616,multiple myeloma,Bone pain
+617,multiple myeloma,Chest Pain
+618,multiple myeloma,Nausea
+619,multiple myeloma,Constipation
+620,multiple myeloma,Loss of appetite
+621,multiple myeloma,Confusion
+622,multiple myeloma,Fatigue
+623,multiple myeloma,Infections
+624,multiple myeloma,Weight loss
+625,multiple myeloma,Weakness
+626,multiple myeloma, Numbness in legs
+627,multiple myeloma,Excessive thirst
+628,multiplesclerosis,Visual disturbances
+629,multiplesclerosis,Muscle weakness
+630,multiplesclerosis,Trouble with coordination and balance
+631,multiplesclerosis,Numbness
+632,multiplesclerosis, Memory problems
+633,mumps,Fever
+634,mumps,Headache
+635,mumps,Muscle pain
+636,mumps,Tiredness
+637,mumps,Loss of appetite
+638,mumps,Swollen salivary glands
+639,mumps,Pain in swallowing
+640,mumps,Fatigue
+641,muscular dystrophy,Frequent falls
+642,muscular dystrophy,Difficulty getting up from a lying or sitting position
+643,muscular dystrophy,Trouble running and jumping
+644,muscular dystrophy,Waddling gait
+645,muscular dystrophy,Walking on the toes
+646,muscular dystrophy,Large calf muscles
+647,muscular dystrophy,Muscle pain
+648,muscular dystrophy,Stiffness
+649,muscular dystrophy,Learning disabilities
+650,myasthenia gravis,Drooping of eyelids.
+651,myasthenia gravis,Double vision
+652,myoclonus,Involuntary Shock
+653,osteoarthritis,Osteoarthritis of the spine
+654,osteoarthritis,Osteoarthritis of the spine
+655,osteoarthritis,disks narrow and bone spurs form.
+656,osteomyelitis,Fever
+657,osteomyelitis,Chills
+658,osteomyelitis,Irritability
+659,osteomyelitis,Lethargy
+660,osteomyelitis,Pain in infection
+661,osteomyelitis,Swelling
+662,osteomyelitis,Warmth and redness over the area of the infection
+663,osteoporosis,Back pain
+664,osteoporosis,Loss of height
+665,osteoporosis,Stooped posture
+666,osteoporosis,Bone fracture 
+667,ovariancancer,Discomfort in pelvis region
+668,ovariancancer,Pain in the lower abdomen
+669,ovariancancer,Bleeding from the vagina
+670,ovariancancer,Weight gain or loss
+671,ovariancancer,Abnormal periods
+672,ovariancancer,Back pain
+673,ovariancancer,Gas
+674,ovariancancer,Nausea
+675,ovariancancer,Vomiting
+676,ovariancancer,Loss of appetite
+677,ovariancancer,Excessive urination
+678,parkinsons disease,Tremor. A tremor
+679,parkinsons disease,Limb shaking
+680,parkinsons disease,Reduced ability to move
+681,parkinsons disease,Slowing of movement
+682,parkinsons disease,Shortening of steps
+683,parkinsons disease,Dfficult to move.
+684,parkinsons disease,Rigid muscles. Muscle stiffness
+685,parkinsons disease,Impaired posture
+686,parkinsons disease,Impaired balance
+687,parkinsons disease,Loss of automatic movements
+688,parkinsons disease,Decreased ability to perform unconscious movements
+689,parkinsons disease,Speech changes
+690,pelvicinflammatorydisease,Pain in the lower abdomen
+691,pelvicinflammatorydisease,Fever
+692,pelvicinflammatorydisease,Smelly vaginal discharge
+693,pelvicinflammatorydisease,Irregular bleeding
+694,pelvicinflammatorydisease,Pain during intercourse or urination
+695,peptic ulcer,Burning stomach pain
+696,peptic ulcer,Loss of appetite
+697,peptic ulcer,bloating
+698,peptic ulcer,Belching
+699,peptic ulcer,Heartburn
+700,peptic ulcer,Nausea
+701,peritonitis,Abdominal pain
+702,peritonitis,Tenderness
+703,peritonitis,Bloating
+704,peritonitis,Distention in abdomen
+705,peritonitis,Fever
+706,peritonitis,Nausea
+707,peritonitis,Vomiting
+708,peritonitis,Loss of appetite
+709,peritonitis,Diarrhea
+710,peritonitis,Low urine output
+711,peritonitis,Thirst
+712,peritonitis,Inability to pass stool
+713,peritonitis,Gas
+714,peritonitis,Fatigue
+715,peyronies disease,Scar tissue
+716,peyronies disease,Flat lumps under penis skin.
+717,peyronies disease,Significant bend to the penis
+718,peyronies disease,Narrowing penis
+719,peyronies disease,Erection problems
+720,peyronies disease,Shortening of the penis.
+721,phenylketonuria,Intellectual disability 
+722,phenylketonuria,Delayed development
+723,phenylketonuria,Behavioral problem 
+724,phenylketonuria,emotional problem
+725,phenylketonuria,Social problems
+726,phenylketonuria,Psychiatric disorders
+727,phenylketonuria,Neurological problems
+728,phenylketonuria,Seizures
+729,phenylketonuria,Hyperactivity
+730,phenylketonuria,Poor bone strength
+731,phenylketonuria,Skin rashes
+732,plague,Sudden fever
+733,plague,Pain
+734,plague,Sudden Chills
+735,plague,Tender lymph glands
+736,plague,Headache
+737,plague,Fatigue
+738,plague,Muscle pain
+739,pneumonia,High fever
+740,pneumonia,Chills
+741,pneumonia,Severe cough
+742,pneumonia,Shortness of breath
+743,pneumonia,Chest pain while breathing
+744,pneumonia,Cough
+745,pneumonia,Nausea
+746,pneumonia,Vomiting
+747,pneumonia,Diarrhea
+748,polycysticovarysyndrome,Irregular menstrual periods
+749,polycysticovarysyndrome,Infertility
+750,polycysticovarysyndrome,Pelvic pain
+751,polycysticovarysyndrome,Excess hair growth on body
+752,polycysticovarysyndrome,Weight gain
+753,polycysticovarysyndrome,Acne or oily skin
+754,polycysticovarysyndrome,Patches of thickened skin
+755,porphyria,Chest pain
+756,porphyria,Severe abdomen pain
+757,porphyria,Pain in limbs
+758,porphyria,Body pain
+759,porphyria,Muscle numbness
+760,porphyria,Tingling
+761,porphyria,Paralysis
+762,porphyria,Vomiting
+763,porphyria,Constipation
+764,porphyria,Mental disorders
+765,porphyria,Swelling of abdomen
+766,porphyria,Insomnia
+767,porphyria,Anxiety
+768,porphyria,Restlessnes
+769,posttraumaticstressdisorder,Flashbacks
+770,posttraumaticstressdisorder,Trouble sleeping
+771,posttraumaticstressdisorder,Nightmares
+772,posttraumaticstressdisorder,Feeling alone
+773,posttraumaticstressdisorder,Angry outbursts
+774,progeria,Slowed growth
+775,progeria,Narrowed face
+776,progeria,small lower jaw
+777,progeria,thin lips and beaked nose
+778,progeria,Head disproportionately large for face
+779,progeria,Prominent eyes
+780,progeria,Incomplete closure of the eyelids
+781,progeria,Hair loss
+782,progeria,Thinning
+783,progeria,Wrinkled skin
+784,progeria,Spotty Skin
+785,progeria,Visible veins
+786,progeria,High-pitched voice
+787,prostatecancer,Problems passing urine
+788,prostatecancer,Pain while urinating
+789,prostatecancer,Back pain
+790,prostatecancer,Pain with ejaculation
+791,prostatecancer,Blood in semen
+792,prostatecancer,Discomfort in pelvic region
+793,prostatecancer,Bone pain
+794,prostatecancer,Erectile disfunction
+795,prostatitis,Pain while urinating
+796,prostatitis,Difficulty urinating
+797,prostatitis,Hesitant urination
+798,prostatitis,Frequent urination
+799,prostatitis,Blood in urine
+800,prostatitis,Abdominal Pain
+801,prostatitis,Pain or Discomfort of the penis or testicles
+802,prostatitis,Painful ejaculation
+803,prostatitis,Flu
+804,pulmonaryembolism,Shortness of breath
+805,pulmonaryembolism,Chest pain
+806,pulmonaryembolism,Coughing up blood
+807,pulmonaryembolism,Blood clot
+808,pulmonaryembolism,Swelling in clot
+809,pulmonaryembolism,Pain in clot
+810,pulmonaryembolism,Tenderness and redness of the leg
+811,rabies,Fever
+812,rabies,Headache
+813,rabies,Nausea
+814,rabies,Vomiting
+815,rabies,Agitation
+816,rabies,Anxiety
+817,rabies,Confusion
+818,rabies,Hyperactivity
+819,rabies,Difficulty swallowing
+820,rabies,Excessive salivation
+821,rabies,Fear of water
+822,rabies,Difficulty in swallowing
+823,rabies,Hallucinations
+824,rabies,Insomnia
+825,rabies,Partial paralysis
+826,reactive attachment disorder,Withdrawal
+827,reactive attachment disorder,Fear
+828,reactive attachment disorder,Sadness
+829,reactive attachment disorder,Irritability
+830,reactive attachment disorder,Failure to smile
+831,reactive attachment disorder,Problem in Social interaction
+832,rheumatic fever,Fever
+833,rheumatic fever,Painful Joints
+834,rheumatic fever,Tender joints Hot joints
+835,rheumatic fever,swollen joints
+836,rheumatic fever,Small painless bumps
+837,rheumatic fever,Chest pain
+838,rheumatoid arthritis,Tender Joints 
+839,rheumatoid arthritis,Warm Joints
+840,rheumatoid arthritis,Swollen joints
+841,rheumatoid arthritis,Joint stiffness
+842,rheumatoid arthritis,Fatigue
+843,rheumatoid arthritis,Fever
+844,rheumatoid arthritis,Weight loss
+845,rickets,Bone pain
+846,rickets,Tenderness of bone
+847,rickets,Impaired growth
+848,rickets,Deformities of bones
+849,rickets,Deformities of teeth
+850,ringworm,Ring-like red or silvery rash on your skin
+851,ringworm,Redness around the ring
+852,ringworm,Scaly and inflamed skin
+853,rosacea,Frequent redness of face
+854,rosacea,Red lines under the skin
+855,rosacea,Acne
+856,rosacea,Swollen nose
+857,rosacea,Thick face skin
+858,rubella,Mild fever
+859,rubella,Headache
+860,rubella,Runny nose
+861,rubella,Red eyes
+862,rubella,Tender lymph nodes at base of skull
+863,rubella,Pink rash
+864,rubella,Joint pain
+865,rubella,Swollen glands
+866,scabies,Pimple-like irritations
+867,scabies,Rash
+868,scabies,Intense itching
+869,scabies,Sores
+870,scarlet fever,Fever
+871,scarlet fever,Sore throat
+872,scarlet fever,Difficulty swallowing
+873,scarlet fever,Nausea
+874,scarlet fever,Headache
+875,scarlet fever,Enlarged glands in the neck
+876,scarlet fever,Red rash
+877,schizophrenia,Hallucinations
+878,schizophrenia,Delusions
+879,schizophrenia,Trouble organizing thoughts
+880,schizophrenia,Strange movements
+881,sciatica,Severe Back pain
+882,sciatica,Severe leg pain
+883,sciatica,Numbness
+884,sciatica,Muscle weakness
+885,sciatica,Trouble controlling bowels
+886,sciatica,Trouble controlling bladder
+887,scleroderma,Hardening of skin
+888,scleroderma,Tightening of skin
+889,scleroderma,Exaggerated response to cold temperatures
+890,scleroderma,Emotional distress
+891,scleroderma,Numbness in fingers
+892,scleroderma,Pain in toes
+893,scleroderma,Narrowing of  blood vessels in the limbs
+894,scleroderma,Swelling of esophagus
+895,scleroderma,Red spots on your hands and face
+896,scurvy,Fatigue
+897,scurvy,Feeling irritable
+898,scurvy,Pain in limbs
+899,scurvy,Small red-blue spots on your skin
+900,sepsis,Fever
+901,sepsis,Chills
+902,sepsis,Rapid breathing
+903,sepsis,Rapid heart rate
+904,sepsis,Rash
+905,sepsis,Confusion
+906,sepsis,Disorientation
+907,sepsis,Increased respiratory rate
+908,severeacuterespiratorysyndrome,Runny nose
+909,severeacuterespiratorysyndrome,Cough
+910,severeacuterespiratorysyndrome,Sore throat
+911,severeacuterespiratorysyndrome,Fever
+912,shin splints,Tenderness of shinbone
+913,shin splints,Soreness of shinbone
+914,shin splints,Pain of shinbone
+915,shin splints,Mild swelling in your lower leg.
+916,shingles,Burning pain
+917,shingles,Tingling
+918,shingles,Itching on one side of body or face
+919,shingles,Rashes
+920,shingles,Blisters
+921,sinusitis,Fever
+922,sinusitis,Weakness
+923,sinusitis, Severe fatigue
+924,sinusitis,Cough
+925,sinusitis,Congestion
+926,skin cancer,Brownish spot with darker speckles
+927,skin cancer,Dark lesions on bodyparts
+928,skin cancer,Waxy bump
+929,smallpox,fever
+930,smallpox,Fatigue
+931,smallpox,Headache
+932,smallpox,Severe back pain
+933,smallpox,Vomiting
+934,smallpox,Rash
+935,smallpox,Red sores
+936,stevens-Johnson syndrome,Facial swelling
+937,stevens-Johnson syndrome,Tongue swelling
+938,stevens-Johnson syndrome,Hives
+939,stevens-Johnson syndrome,Skin pain
+940,stevens-Johnson syndrome,Fever
+941,stevens-Johnson syndrome,Sore Throat
+942,stevens-Johnson syndrome,Cough
+943,stevens-Johnson syndrome,Fatigue
+944,stomach cancer,Fatigue
+945,stomach cancer,Bloating
+946,stomach cancer,Loss of Appetite
+947,stomach cancer,Severe and persistent Heartburn 
+948,stomach cancer,Severe Indigestion 
+949,stomach cancer,Persistent Nausea
+950,stomach cancer,Stomach pain
+951,stomach cancer,Persistent Vomiting 
+952,stomach cancer,Weight loss 
+953,strep throat,Throat pain 
+954,strep throat,Difficulty swallowing
+955,strep throat,Inflammation
+956,strep throat,Red spots
+957,syphilis,Painless sores on genitals
+958,syphilis,Painless sores on rectum
+959,syphilis,Painless sores on tongue
+960,syphilis,Painless sores on lips
+961,tennis elbow,Pain 
+962,tennis elbow,Weakeness
+963,tennis elbow,Pain in Shaking hand
+964,testicularcancer,Pain in testicles
+965,testicularcancer,Swelling in testicles
+966,testicularcancer,Lumps in testicles
+967,testicularcancer,Back pain
+968,testicularcancer,Abdomen pain
+969,testicularcancer,Pain in groin
+970,tetanus,Painful tightening of muscle
+971,tetanus,Stiffness in jaw muscles 
+972,tetanus,Stiffness of  neck muscles
+973,tetanus,Difficulty swallowing
+974,tetanus,Stiffness of abdominal muscles
+975,thalassaemia,Tiredness
+976,thalassaemia,Fatigue
+977,thalassaemia,Shortness of breath
+978,thalassaemia,Fluttering or irregular heartbeats
+979,thalassaemia,Pale skin
+980,thalassaemia,Yellowing of the skin and eyes
+981,thrush,Itching and soreness around the entrance of the vagina
+982,thrush,Vaginal discharge is usually odourless and may be thick and watery
+983,thrush, Pain during sex
+984,thrush,Stinging sensation when peeing
+985,tinnitus,Ringing Noise in ears
+986,tinnitus,Buzzing Noise in ears
+987,tinnitus,Roaring Noise in ears
+988,tinnitus,Clicking Noise in ears
+989,tinnitus,Hissing Noise in ears
+990,tonsillitis,Sore throat
+991,tonsillitis,Swollen tonsils
+992,tonsillitis,Trouble swallowing
+993,tonsillitis,A white or yellow coating on tonsils
+994,tonsillitis,Swollen glands in neck
+995,tonsillitis,Fever
+996,tonsillitis,Bad breath
+997,tonsillitis,Pain in swallowing
+998,tonsillitis,A stiff neck
+999,Toxic shock syndrome,A sudden high fever
+1000,Toxic shock syndrome,Low blood pressure
+1001,Toxic shock syndrome,Vomiting
+1002,Toxic shock syndrome,Diarrhea
+1003,Toxic shock syndrome,Palm rash
+1004,Toxic shock syndrome,Slole Rash
+1005,Toxic shock syndrome,Confusion
+1006,Toxic shock syndrome,Muscle aches
+1007,Toxic shock syndrome,Redness of eyes
+1008,Toxic shock syndrome,Redness of mouth
+1009,Toxic shock syndrome,Redness of throat
+1010,Toxic shock syndrome,Seizures
+1011,Toxic shock syndrome,Headaches
+1012,traumatic brain injury,Headache that gets worse
+1013,traumatic brain injury,Repeated Vomiting
+1014,traumatic brain injury,Nausea
+1015,traumatic brain injury,Seizures
+1016,traumatic brain injury,Inability to awaken from sleep
+1017,traumatic brain injury,Slurred speech
+1018,traumatic brain injury,Weakness
+1019,traumatic brain injury,Numbness in limbs
+1020,traumatic brain injury,Dilated eye pupils
+1021,traumatic brain injury,Drowsiness
+1022,traumatic brain injury,Loss of consciousness
+1023,traumatic brain injury,Loss of balance
+1024,Trichinosis,Diarrhea
+1025,Trichinosis,Abdominal pain
+1026,Trichinosis,Fatigue
+1027,Trichinosis,Nausea
+1028,Trichinosis,Nausea
+1029,Trichinosis,Vomiting
+1030,Trichinosis,High fever
+1031,Trichinosis,Headache
+1032,Trichinosis,Conjunctivitis
+1033,Trichinosis,Muscle pain
+1034,Trichinosis,Weakeness
+1035,Trichomoniasis,Foul-smelling vaginal discharge
+1036,Trichomoniasis,Genital redness
+1037,Trichomoniasis,Genital burning
+1038,Trichomoniasis,Genital itching
+1039,Trichomoniasis,Pain with urination
+1040,Trichomoniasis,Pain with sexual intercourse
+1041,tuberculosis,Long lasting cough
+1042,tuberculosis,Weight loss
+1043,tuberculosis,Loss of appetite
+1044,tuberculosis,Coughing up blood
+1045,tuberculosis,Weakness
+1046,tuberculosis,Fatigue
+1047,tuberculosis,Fever
+1048,tuberculosis,Night sweats
+1049,tuberculosis,Chills
+1050,tuberculosis,Pain while breathing
+1051,tuberculosis,Chest pain
+1052,Tularemia,Swollen lymph glands
+1053,Tularemia,Painful lymph glands
+1054,Tularemia,Fever
+1055,Tularemia,Chills
+1056,Tularemia,Headache
+1057,Tularemia,Exhaustion
+1058,Typhoid fever,Increasing Fever
+1059,Typhoid fever,Headache
+1060,Typhoid fever,Weakness
+1061,Typhoid fever,Fatigue
+1062,Typhoid fever,Muscle Pain
+1063,Typhoid fever,Sweating
+1064,Typhoid fever,Dry cough
+1065,Typhoid fever,Loss of appetite
+1066,Typhoid fever,Weight loss
+1067,Typhoid fever,Abdominal pain
+1068,Typhoid fever,Diarrhea
+1069,Typhoid fever,Constipation
+1070,Typhoid fever,Rash
+1071,Typhoid fever,Extremely Swollen abdomen
+1072,ulcerative colitis,Abdomen pain
+1073,ulcerative colitis,Pus formation
+1074,ulcerative colitis,Anemia
+1075,ulcerative colitis,Severe tiredness
+1076,ulcerative colitis,Weight loss
+1077,ulcerative colitis,Loss of appetite
+1078,ulcerative colitis,Rectal pain
+1079,ulcerative colitis,Rectal bleeding
+1080,ulcerative colitis,Sores on the skin
+1081,ulcerative colitis,Joint pain
+1082,ulcerative colitis,Growth failure in children
+1083,ulcerative colitis,Fever
+1084,ulcerative colitis,Fatigue
+1085,ulcerative colitis,Diarrhea
+1086,Uveitis,Eye redness
+1087,Uveitis,Eye pain
+1088,Uveitis,Light sensitivity
+1089,Uveitis,Blurred vision
+1090,Uveitis,Decreased vision
+1091,Varicose veins,Bluish veins
+1092,Varicose veins,Twisted veins
+1093,Varicose veins,Bulging veins
+1094,Varicose veins,Burning in lower leg
+1095,Varicose veins,Itching around veins
+1096,Varicose veins,Inflammation of skin
+1097,Varicose veins, Hardening of vein.
+1098,Vasovagal syncope,Pale skin
+1099,Vasovagal syncope,Lightheadedness
+1100,Vasovagal syncope,Tunnel vision 
+1101,Vasovagal syncope,Nausea
+1102,Vasovagal syncope,Feeling Warm
+1103,Vasovagal syncope,Chills
+1104,Vasovagal syncope,Clammy sweat
+1105,Vasovagal syncope,Yawning
+1106,Vasovagal syncope,Blurred vision
+1107,Vitiligo,Skin discoloration
+1108,Vitiligo,Whitening of eyelash
+1109,Vitiligo,Whitening of eyebrows
+1110,Vitiligo,Eyeball Discoloration
+1111,Yellow fever,Fever
+1112,Yellow fever,Headache
+1113,Yellow fever,Muscle Pain
+1114,Yellow fever,Back Pain
+1115,Yellow fever,Sensitivity to light
+1116,Yellow fever,Nausea
+1117,Yellow fever,Vomiting
+1118,Yellow fever,Loss of appetite
+1119,Yellow fever,Dizziness
+1120,Yellow fever,Red eyes
+1121,Yellow fever,Red Tongue

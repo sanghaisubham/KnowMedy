@@ -1,6 +1,6 @@
 import time
 from django.http import HttpResponse
-from django.shortcuts import render, render_to_response
+from django.shortcuts import render, render_to_response, redirect
 from .forms import MainForm,Sympform
 from django.views.decorators.http import require_POST
 from .HINT_Scraper import disease
@@ -13,6 +13,9 @@ def index(request):
     form = MainForm()
     return render(request,'knowmedy/index.html',{'form':form})
 
+def findtub(request):
+    return render(request,'knowmedy/findtub.html')
+
 def login(request):
     return render(request,'knowmedy/login.html')
 
@@ -23,22 +26,30 @@ def search(request):
 @require_POST
 def find(request):
     form = MainForm(request.POST)
+    model = MainModel.objects.extra(select={'diff': 'upvote-downvote'}).order_by('-diff')
     if form.is_valid():
         name = form.cleaned_data['name']
         flag=1
         if MainModel.objects.filter(name=name).exists():
-            return HttpResponse('It is already there in the database!')
+            mo = MainModel.objects.get(name=name)
+            symptoms = mo.symptoms
+            causes = mo.causes
+            complications = mo.complications
+            introduction = mo.introduction
+            diagnosis = mo.diagnosis
+
+            #return HttpResponse('It is already there in the database!')
         else:
             symptoms = disease.symptoms(name)
             causes = disease.causes(name)
             complications = disease.complications(name)
             diagnosis = disease.diagnosis(name)
             introduction = disease.introduction(name)
-            new_model = MainModel(name=name, symptoms=symptoms, causes = causes, diagnosis=diagnosis, complications=complications, introduction=introduction)
+            new_model = MainModel(name=name, symptoms=symptoms, causes = causes, diagnosis=diagnosis,complications=complications, introduction=introduction)
             new_model.save()
             #dava = disease.medicine_finder(name)
-            context = {'name':name,'symptoms':symptoms,'causes':causes,'complications':complications,'diagnosis':diagnosis,'introduction':introduction}
-            return render(request,'knowmedy/find.html',context)
+        context = {'name':name,'symptoms':symptoms,'causes':causes,'complications':complications,'model':model,'diagnosis':diagnosis,'introduction':introduction}
+        return render(request,'knowmedy/find.html',context)
 
 def get_disease(request):
     symform = Sympform(request.POST)
@@ -61,6 +72,16 @@ def get_disease(request):
         return render(request,'knowmedy/showresults.html',{'reli':reli})
 
 
+def likes_increase(request,todo_id):
+    todo = MainModel.objects.get(pk=todo_id)
+    todo.upvote+=1
+    todo.save()
+    return redirect('find')
 
+def dislikes_increase(request,todo_id):
+    todo = MainModel.objects.get(pk=todo_id)
+    todo.downvote+=1
+    todo.save()
+    return redirect('find')
 
 

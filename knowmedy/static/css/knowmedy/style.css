@@ -1,4 +1,4 @@
 body{
-    background-image: url("images/background 2.png");
+    background: linear-gradient(to bottom right, red, yellow);
     background-attachment: fixed;
 }

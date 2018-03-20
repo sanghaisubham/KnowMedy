@@ -14,7 +14,7 @@
           crossorigin="anonymous">
     <style>
         .card{
-			box-shadow: 0 0 20px #ccc;
+			box-shadow: 0 0 10px #ccc;
     		margin: 1em;
 			}
     </style>
@@ -26,7 +26,7 @@
               <!--<h1>Key: {{key}}</h1>-->
             <div class="card mt-4">
             <div class="card-body">
-              <h2>{{key}} : {{value}}</h2>
+                <a href="{% url 'findtub' %}"><h4>{{key}} : {{value}}</h4></a>
             </div>
             </div>
             {% endfor %}

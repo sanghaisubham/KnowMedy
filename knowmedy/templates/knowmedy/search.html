@@ -12,103 +12,60 @@
       <link rel="stylesheet" href="static/css/knowmedy/search.css">
     </head>
     <body>
-      <div class="container">
-
-      <div class="row">
-
-        <div class="Absolute-Center is-Responsive">
-          <h1 class="text-center mt-5 text-black display-1">KnowMedy</h1>
+      <div class="container text-white text-center">
+        <h1 class="text-center mt-5 display-1">KnowMedy</h1>
             <p class="lead text-center text-black">
-          Because we do it better!
-      </p>
-          <!-- <div id="logo-container"></div> -->
-          <div class="col-sm-12 col-md-10 col-md-offset-1">
+              Because we do it better!</p>
 
-              <form class="form-inline" method="POST" action="{% url 'getdisease'  %}" role="form">
-
-  <!-- Form Name -->
+              <form class="form-horizontal center" method="POST" action="{% url 'getdisease'  %}" role="form">
   <legend>Search</legend>
-
-  <!--<form>-->
-  <!--<div class="form-group">-->
-    <!--<label class="col-sm-12 col-md-12 col-md-offset-1 control-label" for="location">Symptoms & Severity</label>-->
-    <!--<div class="col-sm-12 col-md-12 col-md-offset-1">-->
-    <!--&lt;!&ndash; <input id="location" name="location" type="text" placeholder="Symptoms" class="form-control input-md"> &ndash;&gt;-->
-
-    <!--<div class="input-group">-->
-  <!--<div class="input-group-prepend">-->
-    <!--&lt;!&ndash; <span class="input-group-text" id="">First and last name</span> &ndash;&gt;-->
-  <!--</div>-->
-      <!--{{form.symptoms1}}-->
-      <!--{{form.severity1}}-->
-<!--</div>-->
-<!--<div class="input-group">-->
-<!--<div class="input-group-prepend">-->
-<!--&lt;!&ndash; <span class="input-group-text" id="">First and last name</span> &ndash;&gt;-->
-<!--</div>-->
-      <!--{{form.symptoms2}}-->
-      <!--{{form.severity2}}-->
-<!--</div>-->
-<!--<div class="input-group">-->
-<!--<div class="input-group-prepend">-->
-<!--&lt;!&ndash; <span class="input-group-text" id="">First and last name</span> &ndash;&gt;-->
-<!--</div>-->
-      <!--{{form.symptoms3}}-->
-      <!--{{form.severity3}}-->
-<!--</div>-->
-                      <!-- Select Basic -->
 {% csrf_token %}
-<div class="panel-group">
+                <div class="panel-group">
+                <div class="row">
+          <!-- <div id="logo-container"></div> -->
+          <div class="col-sm-12 col-md-4">
   <div class="panel panel-default">
     <div class="panel-body">Please enter the symptom and corresponding severity{{form.symptoms1}}{{form.severity1}}</div>
   </div>
+          </div>
+                  <div class="col-md-4">
   <div class="panel panel-default">
     <div class="panel-body">Please enter the symptom and corresponding severity{{form.symptoms2}}{{form.severity2}}</div>
   </div>
+                  </div>
+                  <div class="col-md-4">
   <div class="panel panel-default">
     <div class="panel-body">Please enter the symptom and corresponding severity{{form.symptoms3}}{{form.severity3}}</div>
   </div>
+                  </div>
 </div>
-  <button class="btn btn-primary" type="submit">Submit</button>
+                <div class="form-group">
+    <label class="col-sm-12 col-md-12 col-md-offset-1 control-label" for="radius">Age Group</label>
+    <div class="col-sm-12 col-md-12 col-md-offset-1">
+      <select id="age" name="age" class="form-control">
+        <option value="" disabled selected>Age Group</option>
+        <option value="1">Infant (0-1 years)</option>
+        <option value="2">Children (1-15 years)</option>
+        <option value="3">Young Adult (16-29 years)</option>
+        <option value="4">Adult (30-50 years)</option>
+        <option value="5">Senior Citizens(51 years and above)</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Select Basic -->
+  <div class="form-group">
+    <label class="col-sm-12 col-md-12 col-md-offset-1 control-label" for="property_type">Gender</label>
+    <div class="col-sm-12 col-md-12 col-md-offset-1">
+      <select id="gender" name="gender" class="form-control">
+        <option value="" disabled selected>Gender</option>
+        <option value="1">Female</option>
+        <option value="2">Male</option>
+      </select>
+    </div>
+  </div>
+  <button class="btn btn-info btn-block" type="submit">Submit</button>
 </form>
-  <!--<div class="form-group">-->
-    <!--<label class="col-sm-12 col-md-12 col-md-offset-1 control-label" for="radius">Age Group</label>-->
-    <!--<div class="col-sm-12 col-md-12 col-md-offset-1">-->
-      <!--<select id="age" name="age" class="form-control">-->
-        <!--<option value="" disabled selected>Age Group</option>-->
-        <!--<option value="1">Infant (0-1 years)</option>-->
-        <!--<option value="2">Children (1-15 years)</option>-->
-        <!--<option value="3">Young Adult (16-29 years)</option>-->
-        <!--<option value="4">Adult (30-50 years)</option>-->
-        <!--<option value="5">Senior Citizens(51 years and above)</option>-->
-      <!--</select>-->
-    <!--</div>-->
-  <!--</div>-->
-
-  <!--&lt;!&ndash; Select Basic &ndash;&gt;-->
-  <!--<div class="form-group">-->
-    <!--<label class="col-sm-12 col-md-12 col-md-offset-1 control-label" for="property_type">Gender</label>-->
-    <!--<div class="col-sm-12 col-md-12 col-md-offset-1">-->
-      <!--<select id="gender" name="gender" class="form-control">-->
-        <!--<option value="" disabled selected>Gender</option>-->
-        <!--<option value="1">Female</option>-->
-        <!--<option value="2">Male</option>-->
-      <!--</select>-->
-    <!--</div>-->
-  <!--</div>-->
-
-
-
-  <!--&lt;!&ndash; Button &ndash;&gt;-->
-  <!--<div class="form-group">-->
-    <!--<label class="col-sm-12 col-md-12 col-md-offset-1 control-label"></label>-->
-    <!--<div class="col-sm-12 col-md-12 col-md-offset-1">-->
-      <!--<a class="btn btn-primary btn-block" href="{% url 'getdisease' %}">Search</a>-->
-    <!--</div>-->
-  <!--</div>-->
-
-  <!--</fieldset>-->
-  <!--</form>-->
       </div>
         </div>
       </div>

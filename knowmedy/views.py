@@ -63,11 +63,18 @@ def get_disease(request):
         # for k, v in attribute_set.items():
         #    s+=k+' : '+str(v)+' , '
         # return HttpResponse(s)
-        reli=[]
+        reli={}
+        dicti = {}
         result = Disease_Predicting.disease(attribute_set)
         for i,dictit in result.items():
+            count1=0
             for k,v in dictit.items():
-                reli.append({k:v})
+                if count1==0:
+                    dis=v
+                else:
+                    pro=v
+                count1=count1+1
+            reli[dis]=pro
         #result = json.dumps(result)
         return render(request,'knowmedy/showresults.html',{'reli':reli})
 

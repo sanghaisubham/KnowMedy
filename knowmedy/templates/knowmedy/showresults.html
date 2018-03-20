@@ -17,20 +17,22 @@
 			box-shadow: 0 0 10px #ccc;
     		margin: 1em;
 			}
+		body{
+              background: linear-gradient(to bottom right,red,yellow);
+              background-attachment: fixed;
+            }
     </style>
 </head>
 <body>
     <div class="container">
-        {% for dict_item in reli %}
-            {% for key, value in dict_item.items %}
+            {% for key, value in reli.items %}
               <!--<h1>Key: {{key}}</h1>-->
-            <div class="card mt-4">
+            <div class="card mt-4" style="height:10rem;">
             <div class="card-body">
-                <a href="{% url 'findtub' %}"><h4>{{key}} : {{value}}</h4></a>
+                <a href="{% url 'findtub' %}"><h4>{{key|title}}</h4>: <h5>The probability of you having {{key|title}} is </h5><h4>{{value}}%</h4></a>
             </div>
             </div>
             {% endfor %}
-        {% endfor %}
     </div>
 </body>
 </html>

@@ -1,0 +1,117 @@
+  <!DOCTYPE html>
+  <html lang="en" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title>KnowMedy | Search</title>
+
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+      <link rel="stylesheet" href="static/css/knowmedy/search.css">
+    </head>
+    <body>
+      <div class="container">
+
+      <div class="row">
+
+        <div class="Absolute-Center is-Responsive">
+          <h1 class="text-center mt-5 text-black display-1">KnowMedy</h1>
+            <p class="lead text-center text-black">
+          Because we do it better!
+      </p>
+          <!-- <div id="logo-container"></div> -->
+          <div class="col-sm-12 col-md-10 col-md-offset-1">
+
+              <form class="form-inline" method="POST" action="{% url 'getdisease'  %}" role="form">
+
+  <!-- Form Name -->
+  <legend>Search</legend>
+
+  <!--<form>-->
+  <!--<div class="form-group">-->
+    <!--<label class="col-sm-12 col-md-12 col-md-offset-1 control-label" for="location">Symptoms & Severity</label>-->
+    <!--<div class="col-sm-12 col-md-12 col-md-offset-1">-->
+    <!--&lt;!&ndash; <input id="location" name="location" type="text" placeholder="Symptoms" class="form-control input-md"> &ndash;&gt;-->
+
+    <!--<div class="input-group">-->
+  <!--<div class="input-group-prepend">-->
+    <!--&lt;!&ndash; <span class="input-group-text" id="">First and last name</span> &ndash;&gt;-->
+  <!--</div>-->
+      <!--{{form.symptoms1}}-->
+      <!--{{form.severity1}}-->
+<!--</div>-->
+<!--<div class="input-group">-->
+<!--<div class="input-group-prepend">-->
+<!--&lt;!&ndash; <span class="input-group-text" id="">First and last name</span> &ndash;&gt;-->
+<!--</div>-->
+      <!--{{form.symptoms2}}-->
+      <!--{{form.severity2}}-->
+<!--</div>-->
+<!--<div class="input-group">-->
+<!--<div class="input-group-prepend">-->
+<!--&lt;!&ndash; <span class="input-group-text" id="">First and last name</span> &ndash;&gt;-->
+<!--</div>-->
+      <!--{{form.symptoms3}}-->
+      <!--{{form.severity3}}-->
+<!--</div>-->
+                      <!-- Select Basic -->
+{% csrf_token %}
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-body">Please enter the symptom and corresponding severity{{form.symptoms1}}{{form.severity1}}</div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-body">Please enter the symptom and corresponding severity{{form.symptoms2}}{{form.severity2}}</div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-body">Please enter the symptom and corresponding severity{{form.symptoms3}}{{form.severity3}}</div>
+  </div>
+</div>
+  <button class="btn btn-primary" type="submit">Submit</button>
+</form>
+  <!--<div class="form-group">-->
+    <!--<label class="col-sm-12 col-md-12 col-md-offset-1 control-label" for="radius">Age Group</label>-->
+    <!--<div class="col-sm-12 col-md-12 col-md-offset-1">-->
+      <!--<select id="age" name="age" class="form-control">-->
+        <!--<option value="" disabled selected>Age Group</option>-->
+        <!--<option value="1">Infant (0-1 years)</option>-->
+        <!--<option value="2">Children (1-15 years)</option>-->
+        <!--<option value="3">Young Adult (16-29 years)</option>-->
+        <!--<option value="4">Adult (30-50 years)</option>-->
+        <!--<option value="5">Senior Citizens(51 years and above)</option>-->
+      <!--</select>-->
+    <!--</div>-->
+  <!--</div>-->
+
+  <!--&lt;!&ndash; Select Basic &ndash;&gt;-->
+  <!--<div class="form-group">-->
+    <!--<label class="col-sm-12 col-md-12 col-md-offset-1 control-label" for="property_type">Gender</label>-->
+    <!--<div class="col-sm-12 col-md-12 col-md-offset-1">-->
+      <!--<select id="gender" name="gender" class="form-control">-->
+        <!--<option value="" disabled selected>Gender</option>-->
+        <!--<option value="1">Female</option>-->
+        <!--<option value="2">Male</option>-->
+      <!--</select>-->
+    <!--</div>-->
+  <!--</div>-->
+
+
+
+  <!--&lt;!&ndash; Button &ndash;&gt;-->
+  <!--<div class="form-group">-->
+    <!--<label class="col-sm-12 col-md-12 col-md-offset-1 control-label"></label>-->
+    <!--<div class="col-sm-12 col-md-12 col-md-offset-1">-->
+      <!--<a class="btn btn-primary btn-block" href="{% url 'getdisease' %}">Search</a>-->
+    <!--</div>-->
+  <!--</div>-->
+
+  <!--</fieldset>-->
+  <!--</form>-->
+      </div>
+        </div>
+      </div>
+      </div>
+    </body>
+  </html>

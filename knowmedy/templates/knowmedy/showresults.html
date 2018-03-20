@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Results</title>
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+          crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+          rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+          crossorigin="anonymous">
+    <style>
+        .card{
+			box-shadow: 0 0 20px #ccc;
+    		margin: 1em;
+			}
+    </style>
+</head>
+<body>
+    <div class="container">
+        {% for dict_item in reli %}
+            {% for key, value in dict_item.items %}
+              <!--<h1>Key: {{key}}</h1>-->
+            <div class="card mt-4">
+            <div class="card-body">
+              <h2>{{key}} : {{value}}</h2>
+            </div>
+            </div>
+            {% endfor %}
+        {% endfor %}
+    </div>
+</body>
+</html>

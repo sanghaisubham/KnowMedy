@@ -49,11 +49,9 @@
 •	Here the name of the Project is IT_day wherease the name of the app of knowmedy.To run the server , use command:
   `python manage.py runserver`
   
-•	Visit address http://127.0.0.1:8000/ and Enter the login credentials after which we are directed on the Page where we need to            
-  fill in the symptoms and patient details. 
+•	Visit address http://127.0.0.1:8000/ and Enter the login credentials after which we are redirected on the page where we need to fill in the symptoms and patient details. 
   
-•	On submitting , we are given a result of most probable diseases with probabilities . On clicking on the particular disease we 
-  are redirected to the Details of the Disease including Introduction,Other Symptoms, Remedies,Causes and Medicines.
+•	On submitting , we are given a result of most probable diseases with probabilities . On clicking on the particular disease we are redirected to the Details of the Disease including Introduction,Other Symptoms, Remedies,Causes and Medicines.
 
 • Now visit address http://127.0.0.1:8000/index where we need to enter the Name of The disease and we are redirected to the Details of the Disease including Introduction,Other Symptoms, Remedies,Causes and Medicines.
 

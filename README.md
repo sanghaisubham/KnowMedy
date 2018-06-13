@@ -38,6 +38,25 @@
 
 •	JS
 
+## Working
+
+•	Run `pip install -r requirements.txt`
+
+•	Run `pip install sklearn`
+
+•	Run `pip install scipy`
+
+•	Here the name of the Project is IT_day wherease the name of the app of knowmedy.To run the server , use command:
+  `python manage.py runserver`
+  
+•	Visit address http://127.0.0.1:8000/ and Enter the login credentials after which we are directed on the Page where we need to            
+  fill in the symptoms and patient details. 
+  
+•	On submitting , we are given a result of most probable diseases with probabilities . On clicking on the particular disease we 
+  are redirected to the Details of the Disease including Introduction,Other Symptoms, Remedies,Causes and Medicines.
+
+• Now visit address http://127.0.0.1:8000/index where we need to enter the Name of The disease and we are redirected to the Details of the Disease including Introduction,Other Symptoms, Remedies,Causes and Medicines.
+
 ## Future Scope
 During this limited time period we were only able to built a prototype of our proposed solution and still have some significant points in our mind where we can improve and scale it to a larger scale. So here goes our future scope:
 •	Using the geo navigation, our application will also provide the list of doctors present nearby to the location of the user, for those particular diseases that he/she may be suffering with.

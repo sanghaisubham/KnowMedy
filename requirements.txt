@@ -52,7 +52,7 @@ mongo==0.2.0
 MongoAlchemy==0.19
 mysqlclient==1.3.12
 nbformat==4.4.0
-numpy==1.14.1
+numpy==1.22.0
 packaging==16.8
 pandas==0.22.0
 persisting-theory==0.2.1
